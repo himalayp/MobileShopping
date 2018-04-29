@@ -1,4 +1,4 @@
-/*package com.controller;
+package com.controller;
 
 
 
@@ -44,4 +44,4 @@ public class OrderController {
 		return "OrderConfirm";
 		
 	}
-}*/
+}

@@ -1,4 +1,4 @@
-/*package com.controller;
+package com.controller;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -144,4 +144,4 @@ public class ProductController
 		return "ProductDesc";
 	}
 }
-		*/
+		

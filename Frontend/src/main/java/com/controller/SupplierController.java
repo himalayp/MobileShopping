@@ -1,4 +1,4 @@
-/*package com.controller;
+package com.controller;
 
 import java.util.List;
 
@@ -109,4 +109,3 @@ public class SupplierController {
 		return "Supplier";
 	}
 }
-*/
